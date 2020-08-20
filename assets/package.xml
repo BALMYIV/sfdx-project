@@ -50,6 +50,8 @@
   <types>
     <members>DreamHouse</members>
     <name>PermissionSet</name>
+    <members>Property_Record_Page</members>         
+    <name>FlexiPage</name>     
   </types>
   <version>47.0</version>
 </Package>
